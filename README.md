@@ -36,7 +36,7 @@
  <a href="https://www.linkedin.com/in/aparecido-francisco/" target="blank">
   <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="aparecidofranciscosilva10@gmail.com" target="blank">
+ <a href="mailto:aparecidofranciscosilva10@gmail.com" target="blank">
   <img align="center" alt="Gmail" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" /> &nbsp; &nbsp;
  </a>
   <br/>
