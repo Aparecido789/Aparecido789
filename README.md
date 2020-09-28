@@ -2,7 +2,7 @@
 
 
 <h3> Um pouco sobre Mim :smiley:</h3>
-<p>Sou técnico em informatica e atualmente curso Engenharia da Computação na Faculdade Impacta. Desde cedo sou apaixonado por tecnologia e esse interesse me deu muita curiosidade de aprender mais. Estou em constante aprendizado e pretendo me tornar um desevolvedor Full-Stack.</p>
+<p>Sou técnico em informatica e atualmente curso Engenharia da Computação na Faculdade Impacta. Desde cedo sou apaixonado por tecnologia e esse interesse me deu muita curiosidade de aprender mais. Estou em constante aprendizado e pretendo me tornar um desenvolvedor Full-Stack.</p>
 
 <h3> 🚀 Minhas Skills</h3>
 
